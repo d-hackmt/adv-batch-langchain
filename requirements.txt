@@ -1,0 +1,23 @@
+python-dotenv
+
+# framework / technology for ai agents
+langchain 
+langchain-core 
+langchain-community
+
+
+## LLM PROVIDER 
+
+langchain-groq   # LLM - groq engine  # free to test use 
+langchain-text-splitters    # data chunking
+
+
+# vector db 
+
+faiss-cpu # local vector DB
+
+
+# notebook
+jupyter
+ipykernel
+
