@@ -2,6 +2,8 @@
 
 RAG experiments with LangChain.
 
+CLAUDE ARTIFACT : https://claude.ai/artifact/ARzxd2gJcNYEKojXiDhr65
+
 ## Setup
 
 ```bash
